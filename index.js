@@ -11,3 +11,5 @@ console.log("Tu multiplicación es " + mul)
 
 div = math.divi(10,20);
 console.log("Tu división es " + div)
+
+console.log("New Chances")
